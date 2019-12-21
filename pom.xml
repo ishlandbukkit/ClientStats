@@ -18,7 +18,7 @@
         <project.build.outputEncoding>${projectEncoding}</project.build.outputEncoding>
 
         <!-- JDK Version -->
-        <jdkVersion>1.7</jdkVersion>
+        <jdkVersion>1.8</jdkVersion>
 
         <!-- Spigot Version -->
         <spigotVersion>1.14.4-R0.1-SNAPSHOT</spigotVersion>
@@ -219,7 +219,7 @@
         <!-- Spigot -->
         <repository>
             <id>spigot-repo</id>
-            <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+            <url>https://hub.spigotmc.org/nexus/content/repositories/public/</url>
         </repository>
         <!-- Bungeecord -->
         <repository>
